@@ -1,7 +1,7 @@
 '''
 Python_SQL_Song_Playlist Script 
 
-This code is creating a multi-table relational database from a csv file with playlist data in it. The database has multiple relationships between tables where these tables are eventually JOINED through these relationships at the end of the script.  
+This code is creating a multi-table relational database from a CSV file with playlist data in it. The database has multiple relationships between tables where these tables are eventually JOINED through these relationships at the end of the script.  
 '''
 
 import sqlite3
